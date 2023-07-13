@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gery Audia Simanullang</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/search?k=programmer+cartoon">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerysimanullang&label=Profile%20views&color=0e75b6&style=flat" alt="gerysimanullang" /> </p>
 
