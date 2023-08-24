@@ -15,7 +15,7 @@
 
 </br>
 
-<h2 align="center">I'm a Student 👨‍🎓, Full stack developer 🚀</h2>
+<h2 align="center">I'm a Student 👨‍🎓, Front End Developer 🚀</h2>
 
 <br> </br>
 
