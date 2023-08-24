@@ -21,7 +21,7 @@
 
 
 
-🔭 I'm currently a full stack developer
+🔭 I'm currently a Front End Developer
 
 🌱 I’m currently learning **JAVA, AWS, PYTHON,REACTJS**
 
